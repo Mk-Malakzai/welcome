@@ -1,5 +1,5 @@
 {
-  "name": "crypto-farming-bot",
+  "name": "Game-play-Bot",
   "version": "1.0.0",
   "description": "Telegram bot for the Crypto Farming web app.",
   "main": "index.js",
